@@ -1,0 +1,34 @@
+[package]
+name = "advent_of_code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "new-challenge"
+path = "new-challenge.rs"
+
+[[bin]]
+name = "day-01-p1"
+path = "day-01/part1.rs"
+
+[[bin]]
+name = "day-01-p2"
+path = "day-01/part2.rs"
+
+[[bin]]
+name = "day-02-p1"
+path = "day-02/part1.rs"
+
+[[bin]]
+name = "day-02-p2"
+path = "day-02/part2.rs"
+
+[[bin]]
+name = "day-03-p1"
+path = "day-03/part1.rs"
+
+[[bin]]
+name = "day-03-p2"
+path = "day-03/part2.rs"
