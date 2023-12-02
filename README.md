@@ -17,7 +17,7 @@ that are, `part1.rs`, `part2.rs` and `input.txt`
 This command will also add two additional binary targets in the Cargo.toml
 file as:
 ```toml
-...
+# Rest of the file
 
 [[bin]]
 name = "day-99-p1"
