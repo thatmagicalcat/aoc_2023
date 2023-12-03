@@ -1,7 +1,7 @@
 fn main() {
     println!(
         "ansewr: {answer}",
-        answer = solve(include_str!("../../input.txt"))
+        answer = solve(include_str!("input.txt"))
     );
 }
 
